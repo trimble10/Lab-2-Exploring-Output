@@ -1,7 +1,7 @@
 //****************************************************************
 /*
 	Aiden Trimble
-	C++ 2020
+	C++ Fall Semester 2020
 	Due: September 14th
 	Lab 2 Exploring Output
 	To get familiar output to the command prompt using C++.
